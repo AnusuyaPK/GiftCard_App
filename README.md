@@ -1,3 +1,3 @@
 # GiftCard_App
 # Overview:
-![Alt Text](https://github.com/AnusuyaPK/MineSweeper-Game/blob/main/FinalGif.gif)
+![Alt Text](https://github.com/AnusuyaPK/GiftCard_App/blob/main/giftcard_gif.gif)
